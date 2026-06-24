@@ -6,10 +6,9 @@ class Solution:
             if nums[i]<nums[i+1]:
                 ind = i
                 break
-        if ind==-1:
-            return nums.reverse()
-        for i in range(l-1,ind,-1):
-            if nums[i]>nums[ind]:
-                nums[i],nums[ind] = nums[ind],nums[i]
-                break
+        if ind>=0:
+            for i in range(l-1,ind,-1):
+                if nums[i]>nums[ind]:
+                    nums[i],nums[ind] = nums[ind],nums[i]
+                    break
         nums[ind+1:] = reversed(nums[ind+1:])
