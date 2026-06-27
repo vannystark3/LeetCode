@@ -72,4 +72,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vannystark3/LeetCode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
