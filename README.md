@@ -6,6 +6,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vannystark3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vannystark3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/vannystark3/LeetCode/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vannystark3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vannystark3/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vannystark3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vannystark3/LeetCode/tree/master/0169-majority-element) |
@@ -101,6 +103,7 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vannystark3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vannystark3/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vannystark3/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
