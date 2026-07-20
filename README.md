@@ -13,6 +13,7 @@ Leetcode solutions
 | [0242-valid-anagram](https://github.com/vannystark3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vannystark3/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/vannystark3/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0709-to-lower-case](https://github.com/vannystark3/LeetCode/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/vannystark3/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
