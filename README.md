@@ -33,6 +33,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/vannystark3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vannystark3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0896-monotonic-array](https://github.com/vannystark3/LeetCode/tree/master/0896-monotonic-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vannystark3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vannystark3/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vannystark3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
