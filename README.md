@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vannystark3/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Leetcode solutions
 | ------- |
 | [0015-3sum](https://github.com/vannystark3/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vannystark3/LeetCode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vannystark3/LeetCode/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vannystark3/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -99,4 +101,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
