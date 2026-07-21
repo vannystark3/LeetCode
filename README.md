@@ -15,6 +15,7 @@ Leetcode solutions
 | [0459-repeated-substring-pattern](https://github.com/vannystark3/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/vannystark3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/vannystark3/LeetCode/tree/master/0709-to-lower-case) |
+| [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1768-merge-strings-alternately](https://github.com/vannystark3/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@ Leetcode solutions
 | [0054-spiral-matrix](https://github.com/vannystark3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/vannystark3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
+| [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vannystark3/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -118,6 +120,7 @@ Leetcode solutions
 | [0048-rotate-image](https://github.com/vannystark3/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vannystark3/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
+| [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vannystark3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
