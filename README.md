@@ -40,6 +40,7 @@ Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/vannystark3/LeetCode/tree/master/0896-monotonic-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vannystark3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vannystark3/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vannystark3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -55,6 +56,7 @@ Leetcode solutions
 | [0242-valid-anagram](https://github.com/vannystark3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vannystark3/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Leetcode solutions
 | [0054-spiral-matrix](https://github.com/vannystark3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/vannystark3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vannystark3/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -103,6 +106,7 @@ Leetcode solutions
 | [0048-rotate-image](https://github.com/vannystark3/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vannystark3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vannystark3/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Union-Find
 |  |
 | ------- |
