@@ -125,6 +125,7 @@ Leetcode solutions
 | [0066-plus-one](https://github.com/vannystark3/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
 | [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/vannystark3/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vannystark3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Bit Manipulation
 |  |
