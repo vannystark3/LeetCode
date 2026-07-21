@@ -40,6 +40,7 @@ Leetcode solutions
 | [0229-majority-element-ii](https://github.com/vannystark3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
+| [0860-lemonade-change](https://github.com/vannystark3/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vannystark3/LeetCode/tree/master/0896-monotonic-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vannystark3/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -147,4 +148,8 @@ Leetcode solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vannystark3/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/vannystark3/LeetCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
