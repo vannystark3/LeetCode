@@ -136,6 +136,7 @@ Leetcode solutions
 | [0050-powx-n](https://github.com/vannystark3/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vannystark3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vannystark3/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -171,4 +172,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vannystark3/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
