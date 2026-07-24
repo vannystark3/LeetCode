@@ -35,6 +35,7 @@ Leetcode solutions
 | [0054-spiral-matrix](https://github.com/vannystark3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vannystark3/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vannystark3/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vannystark3/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vannystark3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vannystark3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vannystark3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -101,6 +102,7 @@ Leetcode solutions
 | [0018-4sum](https://github.com/vannystark3/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/vannystark3/LeetCode/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vannystark3/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1768-merge-strings-alternately](https://github.com/vannystark3/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vannystark3/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
