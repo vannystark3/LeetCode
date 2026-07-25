@@ -84,6 +84,7 @@ Leetcode solutions
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vannystark3/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vannystark3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3536-maximum-product-of-two-digits](https://github.com/vannystark3/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Leetcode solutions
 | [1232-check-if-it-is-a-straight-line](https://github.com/vannystark3/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vannystark3/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vannystark3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/vannystark3/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
