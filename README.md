@@ -50,6 +50,7 @@ Leetcode solutions
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vannystark3/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vannystark3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vannystark3/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vannystark3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/vannystark3/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -88,6 +89,7 @@ Leetcode solutions
 | [0242-valid-anagram](https://github.com/vannystark3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vannystark3/LeetCode/tree/master/0389-find-the-difference) |
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vannystark3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vannystark3/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vannystark3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/vannystark3/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -189,4 +191,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vannystark3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
