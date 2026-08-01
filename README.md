@@ -46,6 +46,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/vannystark3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vannystark3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vannystark3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/vannystark3/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vannystark3/LeetCode/tree/master/0896-monotonic-array) |
@@ -92,6 +93,7 @@ Leetcode solutions
 | [0229-majority-element-ii](https://github.com/vannystark3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vannystark3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vannystark3/LeetCode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vannystark3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vannystark3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vannystark3/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -157,6 +159,7 @@ Leetcode solutions
 | [0067-add-binary](https://github.com/vannystark3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vannystark3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vannystark3/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
