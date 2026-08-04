@@ -12,6 +12,7 @@ Leetcode solutions
 | [0043-multiply-strings](https://github.com/vannystark3/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/vannystark3/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vannystark3/LeetCode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vannystark3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vannystark3/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/vannystark3/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -127,6 +128,7 @@ Leetcode solutions
 | [0031-next-permutation](https://github.com/vannystark3/LeetCode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vannystark3/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vannystark3/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/vannystark3/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vannystark3/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
