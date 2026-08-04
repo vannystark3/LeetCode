@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vannystark3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vannystark3/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vannystark3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vannystark3/LeetCode/tree/master/0043-multiply-strings) |
@@ -33,6 +34,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vannystark3/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vannystark3/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vannystark3/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vannystark3/LeetCode/tree/master/0031-next-permutation) |
@@ -248,4 +250,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vannystark3/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vannystark3/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
