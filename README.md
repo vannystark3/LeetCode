@@ -23,6 +23,7 @@ Leetcode solutions
 | [0657-robot-return-to-origin](https://github.com/vannystark3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/vannystark3/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/vannystark3/LeetCode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/vannystark3/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vannystark3/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vannystark3/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -35,6 +36,7 @@ Leetcode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/vannystark3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vannystark3/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vannystark3/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vannystark3/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -142,6 +144,7 @@ Leetcode solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vannystark3/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vannystark3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vannystark3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/vannystark3/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/vannystark3/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vannystark3/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -152,6 +155,7 @@ Leetcode solutions
 | [0067-add-binary](https://github.com/vannystark3/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/vannystark3/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vannystark3/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1041-robot-bounded-in-circle](https://github.com/vannystark3/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vannystark3/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
