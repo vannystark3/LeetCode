@@ -61,6 +61,7 @@ Leetcode solutions
 | [0128-longest-consecutive-sequence](https://github.com/vannystark3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vannystark3/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vannystark3/LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/vannystark3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/vannystark3/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -218,6 +219,7 @@ Leetcode solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String Matching
 |  |
@@ -241,6 +243,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/vannystark3/LeetCode/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -288,4 +291,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vannystark3/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
