@@ -72,6 +72,7 @@ Leetcode solutions
 | [0860-lemonade-change](https://github.com/vannystark3/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vannystark3/LeetCode/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vannystark3/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vannystark3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -225,6 +226,7 @@ Leetcode solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Leetcode solutions
 | [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/vannystark3/LeetCode/tree/master/0493-reverse-pairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -301,4 +304,5 @@ Leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/vannystark3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vannystark3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
