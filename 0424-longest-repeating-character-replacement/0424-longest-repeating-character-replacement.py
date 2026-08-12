@@ -11,14 +11,9 @@ class Solution:
             else:
                 d[s[right]] = 1
             sums += 1
-            m = max(d.values())
-            while sums-m>k:
-                if d[s[left]]>1:
-                    d[s[left]] -= 1
-                else:
-                    del d[s[left]]
+            if sums-max(d.values())>k:
+                d[s[left]] -= 1
                 left += 1
                 sums -= 1
-                m = max(d.values())        
             maxi = max(maxi,right-left+1)
         return maxi
