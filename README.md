@@ -6,6 +6,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vannystark3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vannystark3/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vannystark3/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/vannystark3/LeetCode/tree/master/0013-roman-to-integer) |
@@ -87,6 +88,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vannystark3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vannystark3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vannystark3/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vannystark3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -296,6 +298,7 @@ Leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vannystark3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vannystark3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
