@@ -4,12 +4,13 @@ class Solution:
         l = len(s)
         maxi = 0
         d = {}
+        sums = 0
         for right in range(l):
             if s[right] in d:
                 d[s[right]] += 1
             else:
                 d[s[right]] = 1
-            sums = sum(d.values())
+            sums += 1
             m = max(d.values())
             while sums-m>k:
                 if d[s[left]]>1:
