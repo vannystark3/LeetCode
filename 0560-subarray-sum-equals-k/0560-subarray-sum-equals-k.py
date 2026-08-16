@@ -1,15 +1,14 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        presum = 0
-        c = 0
+        pre = 0
         d = {0:1}
+        c = 0
         for num in nums:
-            presum += num
-            diff = presum-k
-            if diff in d:
-                c += d[diff]
-            if presum in d:
-                d[presum] += 1
+            pre += num
+            if pre-k in d:
+                c += d[pre-k]
+            if pre in d:
+                d[pre] += 1
             else:
-                d[presum] = 1
+                d[pre] = 1
         return c
