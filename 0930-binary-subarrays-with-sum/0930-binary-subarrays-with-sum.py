@@ -8,7 +8,7 @@ class Solution:
         res = 0
         for right in range(l):
             sums+=nums[right]
-            while sums>k and left<l:
+            while sums>k:
                 sums-=nums[left]
                 left+=1
             res+=(right-left+1)
