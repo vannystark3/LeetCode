@@ -80,6 +80,7 @@ Leetcode solutions
 | [1232-check-if-it-is-a-straight-line](https://github.com/vannystark3/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vannystark3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vannystark3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vannystark3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vannystark3/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vannystark3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -240,6 +241,7 @@ Leetcode solutions
 | [0930-binary-subarrays-with-sum](https://github.com/vannystark3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vannystark3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vannystark3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
 | ------- |
@@ -323,4 +325,5 @@ Leetcode solutions
 | [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vannystark3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vannystark3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vannystark3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
