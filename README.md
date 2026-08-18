@@ -73,6 +73,7 @@ Leetcode solutions
 | [0860-lemonade-change](https://github.com/vannystark3/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vannystark3/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/vannystark3/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vannystark3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/vannystark3/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vannystark3/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -104,6 +105,7 @@ Leetcode solutions
 | [0451-sort-characters-by-frequency](https://github.com/vannystark3/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/vannystark3/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vannystark3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vannystark3/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vannystark3/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/vannystark3/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -230,6 +232,7 @@ Leetcode solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/vannystark3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
@@ -310,5 +313,6 @@ Leetcode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vannystark3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vannystark3/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vannystark3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
