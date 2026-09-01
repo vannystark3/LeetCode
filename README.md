@@ -72,6 +72,7 @@ Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/vannystark3/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vannystark3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/vannystark3/LeetCode/tree/master/0682-baseball-game) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vannystark3/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/vannystark3/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vannystark3/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/vannystark3/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -272,6 +273,7 @@ Leetcode solutions
 | [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/vannystark3/LeetCode/tree/master/0493-reverse-pairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vannystark3/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vannystark3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -333,4 +335,8 @@ Leetcode solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/vannystark3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vannystark3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vannystark3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vannystark3/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
