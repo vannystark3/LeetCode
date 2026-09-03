@@ -53,6 +53,7 @@ Leetcode solutions
 | [0015-3sum](https://github.com/vannystark3/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vannystark3/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vannystark3/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/vannystark3/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vannystark3/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vannystark3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vannystark3/LeetCode/tree/master/0054-spiral-matrix) |
@@ -273,6 +274,7 @@ Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vannystark3/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/vannystark3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/vannystark3/LeetCode/tree/master/0493-reverse-pairs) |
