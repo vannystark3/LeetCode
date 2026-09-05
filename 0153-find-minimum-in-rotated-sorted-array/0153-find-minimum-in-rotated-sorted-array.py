@@ -7,7 +7,7 @@ class Solution:
             mid = (l+r)//2
             if nums[mid]<mini:
                 mini = nums[mid]
-            if nums[mid]>nums[r] and nums[r]<nums[l]:
+            if nums[mid]>nums[r]:
                 l = mid+1
             else:
                 r = mid-1
