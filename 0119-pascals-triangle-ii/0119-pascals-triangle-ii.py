@@ -7,11 +7,12 @@ class Solution:
         res.append(1)
         return res
     def getRow(self, rowIndex: int) -> list[int]:
-        arr = [[1],[1,1]]
-        for i in range(1,rowIndex):
-            res = self.next(arr[-1])
-            arr.append(res)
-        return arr[rowIndex]
+        if rowIndex==0:
+            return [1]
+        curr = [1]
+        for i in range(rowIndex):
+            curr = self.next(curr)
+        return curr
         
         
             
