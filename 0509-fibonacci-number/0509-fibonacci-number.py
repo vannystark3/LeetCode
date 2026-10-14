@@ -1,12 +1,11 @@
 class Solution:
-    def f(self,n,dp):
-        if n<=1:
-            return n
-        if dp[n]!=-1:
-            return dp[n]
-        dp[n] = self.f(n-1,dp) + self.f(n-2,dp)
-        return dp[n]
     def fib(self, n: int) -> int:
+        if n==0:
+            return 0
         dp = [-1]*(n+1)
-        return self.f(n,dp)
+        dp[0] = 0
+        dp[1] = 1
+        for i in range(2,n+1):
+            dp[i] = dp[i-1]+dp[i-2]
+        return dp[n]
 
