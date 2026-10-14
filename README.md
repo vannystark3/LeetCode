@@ -170,6 +170,7 @@ Leetcode solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vannystark3/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vannystark3/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vannystark3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vannystark3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vannystark3/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vannystark3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,6 +227,7 @@ Leetcode solutions
 | [0066-plus-one](https://github.com/vannystark3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vannystark3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vannystark3/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vannystark3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vannystark3/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vannystark3/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vannystark3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -364,5 +366,6 @@ Leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vannystark3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vannystark3/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
